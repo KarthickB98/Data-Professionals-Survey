@@ -8,5 +8,4 @@
 - Designed and iterated visualizations including stacked bar charts (average salary by job title), tree maps (country distribution), and gauges (work-life balance satisfaction) to reveal actionable insights.
 - Enhanced data accuracy by adjusting data types (text to decimal) and streamlining demographic fields like country into "other" categories for cleaner analysis.
 - Finalized a cohesive dashboard titled "Data Professional Survey Breakdown," customizing themes, refining layouts, and optimizing titles for clarity and visual appeal.
-## Below is the Final Power BI Dashboard
-![image](https://github.com/user-attachments/assets/b5546715-e5b2-4015-93bd-dd438087c54a)
+## Below is the Final Power BI Dashboard![image](https://github.com/user-attachments/assets/b5546715-e5b2-4015-93bd-dd438087c54a)
