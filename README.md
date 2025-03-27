@@ -9,3 +9,4 @@
 - Enhanced data accuracy by adjusting data types (text to decimal) and streamlining demographic fields like country into "other" categories for cleaner analysis.
 - Finalized a cohesive dashboard titled "Data Professional Survey Breakdown," customizing themes, refining layouts, and optimizing titles for clarity and visual appeal.
    
+![image](https://github.com/user-attachments/assets/b5546715-e5b2-4015-93bd-dd438087c54a)
